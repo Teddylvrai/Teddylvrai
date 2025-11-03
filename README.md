@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-Etudiants en B1 a la Manu
+
++ Bienvenue sur le profil de Teddylvrai !
+
+- Ce profil est en cours d'amélioration.
 
 ### 📊 Mes Statistiques GitHub
 
