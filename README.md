@@ -3,10 +3,6 @@
 
 ## Bienvenue sur mon profile
 
-## Etudiant de B1 à La Manu
-
-
-
 
 ### 📊 Mes Statistiques GitHub
 
@@ -31,6 +27,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-rouvray-1ab91138a/)
 
-### 👀 Vues
+## Etudiant en B1 a la manu (Le Havre) en devellopement web
 
-![Visitor Count](https://profile-counter.glitch.me/Teddylvrai/count.svg)
+## Music is everything
