@@ -2,8 +2,14 @@
 
 Etudiants en B1 a la Manu
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddylvrai&show_icons=true&theme=tokyonight)
+### 📊 Mes Statistiques GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddylvrai&stats_format=bytes)
+[![Teddylvrai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddylvrai&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Teddylvrai)](https://github.com/ryo-ma/github-profile-trophy)
+### 💻 Langages les Plus Utilisés
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddylvrai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆 Mes Trophées
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Teddylvrai&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
