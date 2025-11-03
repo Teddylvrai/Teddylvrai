@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-<kbd>BIENVENUE SUR LE PROFIL DE TEDDYLVAII !</kbd>
+### ✍️ Ce que je fais
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&multiline=true&width=430&height=50&lines=Bienvenue+sur+mon+profil+!;D%C3%A9veloppeur+Full+Stack.;Construire+l%27avenir+avec+du+code.&vCenter=true&weight=700)](https://github.com/DenverCoder1/github-readme-typing-svg)
 
 ### 📊 Mes Statistiques GitHub
 
