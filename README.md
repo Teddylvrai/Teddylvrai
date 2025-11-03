@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-+ Bienvenue sur le profil de Teddylvrai !
-
-- Ce profil est en cours d'amélioration.
+<kbd>BIENVENUE SUR LE PROFIL DE TEDDYLVAII !</kbd>
 
 ### 📊 Mes Statistiques GitHub
 
