@@ -8,7 +8,7 @@ I'm currently a **B1 student at La Manu (Le Havre)**, focused on web development
 
 ### 📊 GitHub Stats
 
-[Teddylvrai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddylvrai&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### 💻 Most Used Languages
 
