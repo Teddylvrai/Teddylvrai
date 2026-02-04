@@ -2,7 +2,7 @@
 
 ## 🎓 Web Development Student
 
-I'm currently a **B1 student at La Manu (Le Havre)**, focused on web development & AI.
+I'm currently a **B1 student at La Manu (Le Havre)**, focused on web development & Data.
 
 ---
 
@@ -13,10 +13,6 @@ I'm currently a **B1 student at La Manu (Le Havre)**, focused on web development
 ### 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddylvrai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 My Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Teddylvrai&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
