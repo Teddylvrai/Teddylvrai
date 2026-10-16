@@ -2,7 +2,7 @@
 
 ## 🎓 Web Development Student
 
-I'm currently a **B1 student at La Manu (Le Havre)**, focused on web development & Data.
+I'm currently a **B2 student at La Manu (Le Havre)**, focused on web development & Data.
 
 ---
 
